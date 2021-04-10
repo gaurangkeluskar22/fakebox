@@ -1,0 +1,2 @@
+FROM machinebox/facebox
+ENV MB_KEY=YmI1YzIxZGMxY2ZkNWM3MzIyNjQ2NjQ0ZTg5YzBlMGY._jhbtGWBtzwFdnpL6Se7virkMhpCYaI7QVa3IbgNh8abv0eiFeGJlha 
